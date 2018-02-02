@@ -1,0 +1,45 @@
+body {
+    background-color:lightgray;
+   
+}
+
+h1 {
+    color:brown;
+    font-family: monospace;
+   position:fixed;
+    
+}
+
+#header {
+    height: 80px;
+    width: 1343px;
+    border-radius: 5px;
+    border: 1px solid blue;
+}
+
+#metadata {
+    padding: 1px;
+    height: 500px;
+    width: 1130px;
+    border-radius:5px;
+    border: 1px solid blue;
+    
+}
+
+#navigation {
+    clear:both;
+    width: 206px;
+    height: 502px;
+    top: 0px;
+    border-radius:5px;
+    border: 1px solid blue;
+    float:right;
+    float:up;
+    
+}
+
+#footer {
+    clear:both;
+    border-radius:5px;
+    border: 1px solid blue;
+}
