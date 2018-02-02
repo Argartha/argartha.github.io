@@ -18,12 +18,13 @@ h1 {
 }
 
 #metadata {
+    font-size: 100px;
     padding: 1px;
     height: 500px;
     width: 1130px;
     border-radius:5px;
     border: 1px solid blue;
-    font-size: 500px;
+    
     
 }
 
